@@ -1,4 +1,4 @@
-# Property Price Prediction Model with NLP and FastAPI
+# Real-Estate-Price-Prediction Model with NLP and FastAPI
 This is a web application deployed in Heroku using FastAPI Framework that predicts the price of a property based on certain features of the property using machine learning. 
 
 ## Model Build Architecture
